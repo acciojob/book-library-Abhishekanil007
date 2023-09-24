@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#f8f8f8;
+}
+
+.book-library{
+	background-color:#ffffff;	
+}
+.book>div{
+	height:5px;
+	width:100%;
+	background-color:#ffffff;
+}
+.book>img{
+	margin-left: 17rem;
+	margin-top: 3rem;
+
+}
+.author{
+	color:#777777;
+}
+.price{
+	width:100%;
+	height:13px;
+	background-color:#2ecc71;
+}
+
